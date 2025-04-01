@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="icon" id="favicon" />
+    <meta
+      name="MTOS Make to order Services Construction"
+      content="width=device-width, initial-scale=1"
+      id="meta-keywords"
+    />
+    <title id="page-title">
+      MeaThao YaiThongVanh | Foundation for the Future
+    </title>
+    <link rel="stylesheet" type="text/css" href="/loader.css" />
+    <link
+      href="https://unpkg.com/boxicons@2.0.9/css/boxicons.min.css"
+      rel="stylesheet"
+    />
+    <script>
+      const apiUrl = "%VITE_API_URL%";
+      const fetchFavicon = async () => {
+        try {
+          const response = await fetch(`${apiUrl}/api/imageUpload/favicon`);
+          if (response.ok) {
+            const data = await response.json();
+            // Update the favicon
+            if (data.imageUrl) {
+              const faviconElement = document.getElementById("favicon");
+              if (faviconElement) {
+                faviconElement.setAttribute("href", data.imageUrl);
+              } else {
+                const newFaviconElement = document.createElement("link");
+                newFaviconElement.rel = "icon";
+                newFaviconElement.id = "favicon";
+                newFaviconElement.href = data.imageUrl;
+                document.head.appendChild(newFaviconElement);
+              }
+            } else {
+              console.error("imageUrl not found in the response data");
+            }
+          } else {
+            console.error("Failed to fetch favicon URL.");
+          }
+        } catch (error) {
+          console.error("Error fetching favicon URL:", error);
+        }
+      };
+
+      // Fetch and update favicon on page load
+      window.onload = () => {
+        fetchFavicon();
+      };
+    </script>
+  </head>
+
+  <body>
+    <div id="app">
+      <div id="loading-bg">
+        <div class="loading-logo">
+          <!-- SVG Logo -->
+        </div>
+        <div class="loading">
+          <div class="effect-1 effects"></div>
+          <div class="effect-2 effects"></div>
+          <div class="effect-3 effects"></div>
+        </div>
+      </div>
+    </div>
+    <script type="module" src="/src/main.js"></script>
+    <script>
+      const loaderColor =
+        localStorage.getItem("sneat-initial-loader-bg") || "#FFFFFF";
+      const primaryColor =
+        localStorage.getItem("sneat-initial-loader-color") || "#3dbfaf";
+
+      if (loaderColor)
+        document.documentElement.style.setProperty(
+          "--initial-loader-bg",
+          loaderColor
+        );
+
+      if (primaryColor)
+        document.documentElement.style.setProperty(
+          "--initial-loader-color",
+          primaryColor
+        );
+    </script>
+  </body>
+</html>

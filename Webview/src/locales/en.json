@@ -1,0 +1,404 @@
+{
+  "nav": {
+    "home": "Home",
+    "aboutUs": "About Us",
+    "support": "Supporters",
+    "news": "News",
+    "services": "Services",
+    "contactUs": "Contact Us",
+    "projects": "Projects",
+    "giveSupport": "Donation",
+    "products": "Products",
+    "ads": "Advertisements",
+    "touristAttractions": "Tourist Attractions",
+    "foundation": "Foundation",
+    "profile": "Profile",
+    "settings": "Settings",
+    "logout": "Logout",
+    "login": "Login",
+    "search": "Search",
+    "searchResults": "Search Results",
+    "content": "Content",
+    "performance": "Performance",
+    "coreValues": "Core Values",
+    "team": "Team"
+
+  },
+  "search": {
+    "title": "Search",
+    "placeholder": "Search...",
+    "results": "Search Results for",
+    "noResults": "No results found. Please try a different search term.",
+    "content": "Content",
+    "performance": "Performance",
+    "coreValues": "Core Values",
+    "team": "Team",
+    "laoName": "Lao Name",
+    "laoTitle": "Lao Title",
+    "laoDescription": "Lao Description",
+    "laoContent": "Lao Content",
+    "laoLocation": "Lao Location",
+    "laoPosition": "Lao Position",
+    "topMatches": "Best Matches",
+    "matchedTerms": "Matched Terms",
+    "about": "About",
+    "supporters": "Supporters",
+    "headContent": "Header Content",
+    "impact": "Impact",
+    "visionMission": "Vision & Mission",
+    "bankAccounts": "Bank Accounts",
+    "productCategories": "Product Categories",
+    "attractionCategories": "Attraction Categories",
+    "newsCategories": "News Categories",
+    "projectStatus": "Project Status",
+    "homeSliders": "Home Sliders",
+    "newsSliders": "News Sliders",
+    "projectSliders": "Project Sliders",
+    "supportSliders": "Support Sliders",
+    "productSlides": "Product Slides",
+    "productAds": "Product Ads",
+    "attractionSlides": "Attraction Slides",
+    "attractionAds": "Attraction Ads"
+  },
+  "home": {
+    "heroTitle": "Help Those Who Need It Most",
+    "heroDescription": "Join us in making a difference in the lives of others through charitable giving and community support.",
+    "donateNow": "Donate Now",
+    "feature1Title": "Make Donation",
+    "feature1Description": "Support our support with your generous donations.",
+    "feature2Title": "Help & Support",
+    "feature2Description": "Volunteer and contribute to our community initiatives.",
+    "feature3Title": "Global Impact",
+    "feature3Description": "Create positive change around the world.",
+    "peopleHelped": "People Helped",
+    "projects": "Projects",
+    "whatWeDo": "What We Do",
+    "latestNews": "Latest News",
+    "viewAll": "View All",
+    "TestimonialsDescription": "We are a non-profit organization committed to supporting individuals and communities in need through various charitable initiatives and community support projects. Our mission is to create positive change and improve the quality of life for those in need",
+    "TestimonialsTitle": "We Are a Non-Profit Organization Dedicated to Helping Those in Need"
+  },
+  "footer": {
+    "Aitthisone": "Aitthisone DSP",
+    "login": "Login",
+    "aboutDescription": "We are a non-profit organization dedicated to helping those in need through various charitable initiatives and community support programs.",
+    "quickLinks": "Quick Links",
+    "contactInfo": "Contact Information",
+    "newsletter": "Newsletter",
+    "newsletterDescription": "Subscribe to our newsletter for updates on our initiatives and ways to help.",
+    "emailPlaceholder": "Your email",
+    "address": "Address: Vientiane Capital, Lao PDR",
+    "latestProjects": "Projects",
+    "copyright": "All rights reserved - Meathaoyai Thongvanh Foundation"
+  },
+  "contactUs": {
+    "getInTouch": "Get In Touch",
+    "heroDescription": "Be a part of supporting society",
+    "sponsoringCompanies": "Sponsoring Companies",
+    "phoneNumber": "Phone Number",
+    "emailAddress": "Email Address",
+    "address": "Address",
+    "giveUsSupport": "Join us in helping society",
+    "wantToAsk": "Want To Ask Anything? Send Us A Mail Anytime",
+    "yourName": "Your Name",
+    "emailAddressPlaceholder": "Email Address",
+    "phoneNumberPlaceholder": "Phone Number",
+    "subject": "Subject",
+    "messageHere": "Message Here",
+    "sendMail": "Send Mail",
+    "ourLocation": "Our Location",
+    "invalidPhone": "Please enter a valid phone number (+8562XXXXXXXXX or 02XXXXXXXXX)",
+    "invalidEmail": "Please enter a valid email address"
+  },
+  "news": {
+    "pageTitle": "Breaking News and Updates",
+    "pageDescription": "Dive into the latest developments, breakthroughs, and insights from our team. From cutting-edge technology to groundbreaking discoveries, stay informed about the news that matters."
+  },
+  "newsCardDetail": {
+    "heroSection": {
+      "categoryBadge": "Category",
+      "author": "Author",
+      "date": "Date"
+    },
+    "contentSection": {
+      "description": "Description",
+      "tags": "Tags",
+      "share": "Share",
+      "facebook": "Facebook",
+      "whatsapp": "WhatsApp",
+      "line": "Line"
+    },
+    "sidebar": {
+      "search": "Search",
+      "searchPlaceholder": "Enter your search term...",
+      "categories": "Categories"
+    },
+    "relatedNews": {
+      "title": "Related News"
+    },
+    "navigationButtons": {
+      "backToNews": "Back to News"
+    },
+    "comments": {
+      "title": "Comments",
+      "leaveComment": "Leave a Comment",
+      "namePlaceholder": "Your Name",
+      "emailPlaceholder": "Your Email",
+      "messagePlaceholder": "Your Comment",
+      "submit": "Post Comment",
+      "noComments": "No comments yet. Be the first to comment!",
+      "loginRequired": "Please login to leave a comment",
+      "loginToComment": "Login to Comment"
+    }
+  },
+  "aboutUs": {
+    "title": "Meathaoyai Thongvanh Foundation",
+    "heroDescription": "Empowering communities and preserving cultural heritage across Laos through sustainable development and charitable initiatives",
+    "whoWeAre": "Who We Are",
+    "whoWeAreText": "We are a dedicated foundation working to improve lives across Laos through sustainable development and community support.",
+    "peopleHelped": "People Helped",
+    "projectsCompleted": "Projects Completed",
+    "yearsExperience": "Years Experience",
+    
+    "ourVision": "Our Vision",
+    "visionText": "To create a world where every community has access to essential resources and opportunities for sustainable development.",
+    "visionPoint1": "Empowering local communities through education and skill development",
+    "visionPoint2": "Promoting sustainable development and environmental conservation",
+    "visionPoint3": "Building lasting partnerships for positive social impact",
+    
+    "ourMission": "Our Mission",
+    "missionText": "To implement effective community development programs that create lasting positive change through collaboration and sustainable solutions.",
+    "missionPoint1": "Delivering high-impact community development projects",
+    "missionPoint2": "Fostering partnerships with local and international organizations",
+    "missionPoint3": "Ensuring transparency and accountability in all our initiatives",
+    
+    "ourValues": "Our Core Values",
+    "value1Title": "Integrity",
+    "value1Text": "We maintain the highest standards of transparency and accountability",
+    "value2Title": "Community",
+    "value2Text": "We put community needs at the heart of everything we do",
+    "value3Title": "Sustainability",
+    "value3Text": "We create long-lasting positive impact",
+    "value4Title": "Innovation",
+    "value4Text": "We embrace new solutions to challenges",
+    
+    "ourImpact": "Our Impact",
+    "purpose": "Our Purpose",
+    "purposeText": "We create meaningful change in Laotian communities through education, healthcare, and cultural preservation initiatives.",
+    "community": "Community Focus",
+    "communityText": "We work closely with local communities to understand their needs and implement effective solutions.",
+    "impact": "Our Impact",
+    "impactText": "Through targeted programs, we create measurable improvements in education, healthcare, and community development.",
+    "familiesHelped": "Families Helped",
+    "communitiesServed": "Communities Served",
+    "provincesReached": "Provinces Reached",
+    
+    "ourTeam": "Our Team",
+    "teamMember1Name": "John Smith",
+    "teamMember1Position": "Executive Director",
+    "teamMember1Description": "A leader driving excellence in executive management.",
+    "teamMember2Name": "Sarah Johnson",
+    "teamMember2Position": "Program Manager",
+    "teamMember2Description": "A dedicated manager focused on strategic planning for communities.",
+    "teamMember3Name": "David Lee",
+    "teamMember3Position": "Community Liaison",
+    "teamMember3Description": "A community-oriented individual fostering relationships and growth nationwide.",
+    "teamMember4Name": "Maria Garcia",
+    "teamMember4Position": "Development Officer",
+    "teamMember4Description": "A coordinator shaping direction for grassroots organizations.",
+    "teamMember5Name": "Aitthisone",
+    "teamMember5Position": "Development Officer",
+    "teamMember5Description": "A creator focused on the well-being of communities.",
+    "joinOurMission": "Join Our Mission for Change",
+    "ctaText": "Together, we can make a lasting difference in the lives of communities across Laos.",
+    "contactUs": "Contact Us Today"
+  },
+  "ads": {
+    "ourSupporters": "Donors to society",
+    "featuredProducts": "Featured Products",
+    "products": "Products",
+    "showAllProducts": "Show All Products",
+    "categoryFilter": "Category: {category}",
+    "learnMore": "Lead More",
+    "sliderContent": {
+      "slide1": {
+        "title": "Supporting Local Communities",
+        "description": "Empowering communities through sustainable development"
+      },
+      "slide2": {
+        "title": "Environmental Conservation",
+        "description": "Protecting Laos natural resources for future generations"
+      },
+      "slide3": {
+        "title": "Education Initiatives",
+        "description": "Building brighter futures through education"
+      }
+    },
+    "supporters": {
+      "supporter1": {
+        "name": "Organization Name 1",
+        "description": "Supporting our mission since 2020"
+      },
+      "supporter2": {
+        "name": "Organization Name 2",
+        "description": "Key partner in community development"
+      },
+      "supporter3": {
+        "name": "Organization Name 3",
+        "description": "Helping us make a difference"
+      },
+      "supporter4": {
+        "name": "Organization Name 4",
+        "description": "Building a better future together"
+      }
+    },
+    "products": {
+      "product1": {
+        "name": "Local Handicrafts",
+        "description": "Handmade by local artisans"
+      },
+      "product2": {
+        "name": "Organic Products",
+        "description": "Sustainably sourced local goods"
+      },
+      "product3": {
+        "name": "Traditional Textiles",
+        "description": "Preserving Laotian heritage"
+      },
+      "product4": {
+        "name": "Community Crafts",
+        "description": "Supporting local families"
+      }
+    },
+    "paymentMethods": "Let's join hands to donate and support to help society.",
+    "accountName": "Account Name",
+    "accountNumber": "Account Number",
+    "currencies": {
+      "LAK": "LAK",
+      "USD": "USD",
+      "THB": "THB"
+    },
+    "copySuccess": "Account number copied to clipboard!",
+    "banks": {
+      "bcel": "BCEL Bank",
+      "ldb": "LDB Bank",
+      "jdb": "JDB Bank",
+      "bfl": "BFL Bank",
+      "pvb": "Phongsavanh Bank"
+    },
+    "scanQRCode": "Scan QR Code for help society",
+    "saveQRCode": "Save QR Code",
+    "downloadError": "Error downloading QR code",
+    "paymentDescription": "After you have transferred your donation, please take a photo of the receipt and send it to the WhatsApp number or contact channel above. We will share your donation on our website and social media.",
+    "assistanceProjects": "Projects in need of assistance",
+    "viewAllProducts": "View All Products",
+    "ratings": "Ratings",
+    "sold": "Sold",
+    "shippingInformation": "Shipping Information",
+    "location": "Location",
+    "shippingFee": "Shipping Fee",
+    "stockInformation": "Stock Information",
+    "available": "Available",
+    "pieces": "pieces",
+    "quantity": "Quantity",
+    "addToCart": "Add to Cart",
+    "buyNow": "Order via WhatsApp",
+    "productDescription": "Product Description",
+    "relatedProducts": "Related Products"
+  },
+  "projects": {
+    "title": "Our Projects",
+    "description": "Discover our ongoing initiatives and make a difference in the community",
+    "goal": "Goal",
+    "supporters": "Supporters",
+    "daysLeft": "Days Left",
+    "status": {
+      "ongoing": "Ongoing",
+      "completed": "Completed",
+      "upcoming": "Upcoming"
+    },
+    "slideTitle2": "Making a Difference",
+    "slideDesc2": "Join our community projects and help create positive change",
+    "slideTitle3": "Building the Future",
+    "slideDesc3": "Supporting sustainable development in our communities",
+    "donateNow": "Donate Now"
+  },
+  "auth": {
+    "login": {
+      "title": "Login",
+      "email": "Email",
+      "password": "Password",
+      "submit": "Login",
+      "noAccount": "Don't have an account?",
+      "register": "Register",
+      "forgotPassword": "Forgot Password?",
+      "rememberMe": "Remember me",
+      "loginWith": "Or login with"
+    },
+    "register": {
+      "title": "Register",
+      "name": "Full Name",
+      "email": "Email",
+      "password": "Password",
+      "confirmPassword": "Confirm Password",
+      "submit": "Register",
+      "haveAccount": "Already have an account?",
+      "login": "Login",
+      "termsAgree": "I agree to the Terms and Conditions"
+    },
+    "validation": {
+      "required": "This field is required",
+      "emailValid": "Please enter a valid email",
+      "passwordLength": "Password must be at least 6 characters",
+      "passwordMatch": "Passwords do not match",
+      "termsRequired": "You must agree to the terms"
+    },
+    "messages": {
+      "loginSuccess": "Login successful",
+      "registerSuccess": "Registration successful",
+      "loginError": "Login failed. Please check your credentials.",
+      "registerError": "Registration failed. Please try again.",
+      "logoutSuccess": "Logged out successfully"
+    }
+  },
+  "notFound": {
+    "title": "Page Not Found",
+    "description": "The page you're looking for doesn't exist or has been moved.",
+    "returnHome": "Return to Home"
+  },
+  "sidebar": {
+    "categories": "Categories"
+  },
+  "tourist": {
+    "title": "Tourist Attractions",
+    "detail": {
+      "popularAttraction": "Popular Attraction",
+      "aboutAttraction": "About This Attraction",
+      "highlights": "Highlights",
+      "duration": "Duration:",
+      "groupSize": "Group size:",
+      "languages": "Languages:",
+      "availability": "Available:",
+      "whatToExpect": "What to Expect",
+      "features": {
+        "guide": "Professional local guide",
+        "photo": "Scenic photo opportunities",
+        "cultural": "Cultural insights and history",
+        "transport": "Comfortable transportation"
+      },
+      "askDetails": "Ask for Details",
+      "relatedAttractions": "Related Attractions",
+      "share": "Share"
+    }
+  },
+  "loading": {
+    "loadingText": "Loading...",
+    "sending": "Sending your message...",
+    "success": {
+      "title": "Message Sent Successfully!",
+      "description": "Thank you for contacting us. We'll get back to you soon.",
+      "close": "Close"
+    }
+  },
+  "Address": "Houakhua Village, Xaysettha District, Vientiane Capital Lao PDR"
+}

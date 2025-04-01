@@ -1,0 +1,1 @@
+<h3 class="text-center mb-4">{{ $t('contactUs.sponsoringCompanies') }}</h3> 
