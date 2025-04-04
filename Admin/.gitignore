@@ -33,7 +33,3 @@ dist-ssr
 # iconify dist files
 src/@iconify/icons-bundle.js
 
-# Local environment files
-.env
-.env.local
-.env.*.local
